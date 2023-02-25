@@ -1,0 +1,33 @@
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\bin\Debug\net6.0-windows\ProyectoBanco.exe
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\bin\Debug\net6.0-windows\ProyectoBanco.deps.json
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\bin\Debug\net6.0-windows\ProyectoBanco.runtimeconfig.json
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\bin\Debug\net6.0-windows\ProyectoBanco.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\bin\Debug\net6.0-windows\ProyectoBanco.pdb
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.AssemblyReference.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.creaCuenta.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.login.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.miChequera.resources
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.AssemblyInfoInputs.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.AssemblyInfo.cs
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\refint\ProyectoBanco.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.pdb
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.genruntimeconfig.cache
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ref\ProyectoBanco.dll
+C:\Users\Mau\Desktop\8vo Sem\Apps Multiplataforma\Proyecto Banco\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.principal.resources
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.dll
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\refint\ProyectoBanco.dll
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.pdb
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.AssemblyReference.cache
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.principal.resources
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.creaCuenta.resources
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.login.resources
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.miChequera.resources
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.AssemblyInfoInputs.cache
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.AssemblyInfo.cs
+C:\Users\Shava\Downloads\ProyectoBanco\obj\Debug\net6.0-windows\ProyectoBanco.csproj.CoreCompileInputs.cache
